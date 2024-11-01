@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hardware Request Form </title>
+    <style>
+        body {
+            font-family: Courier, monospace;
+            background-color: #bdbdde;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 45vh;
+            margin: 0;
+        }
+        .container {
+            width: 100%;
+            max-width: 700px;
+            background-color: #f2f2f2;
+            padding: 60px;
+            border-radius: 35px;
+            box-shadow: 40px 35px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #000000;
+            margin-bottom: 62px;
+            font-size: 45px;
+        }
+        form label {
+            display: block;
+            margin-bottom: 5px;
+            color: #333;
+        }
+        form input[type="text"], form input[type="number"], form select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 30px;
+            border: 0px solid #ddd;
+            border-radius: 6px;
+        }
+        form button {
+            width:100%;
+            padding: 10px;
+            background-color: #3e4d69;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            display: block;
+            margin: 0 auto;
+            max-width: 500px;
+            font-size: 26px;
+        }
+        form button:hover {
+            background-color: #bdbdde;
+        }
+        .message {
+            margin-top: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            color: #000000;
+        }
+        .success {
+            background-color: #61ad73;
+        }
+        .error {
+            background-color: #ce4d5a;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Submit Hardware Request</h1>
+        <form method="post" action="/">
+            <label for="mechanic_name">Mechanic Name:</label>
+            <input type="text" id="mechanic_name" name="mechanic_name" required>
+
+            <label for="hardware_item">Hardware Item:</label>
+            <input type="text" id="hardware_item" name="hardware_item" required>
+
+            <label for="quantity">Quantity:</label>
+            <input type="number" id="quantity" name="quantity" required>
+
+            <!-- Location Dropdown -->
+            <label for="location">Location:</label>
+            <select id="location" name="location" required>
+                <option value="">Select a location</option>
+                <option value="737 ROBOT & DRIVEMATICS">737 Robot & Drivematics</option>
+                <option value="787 - EDGE FRAME TOWER">787 Edge Frame Tower</option>
+                <option value="NGC TOWER">NGC Tower</option>
+                <option value="CHROME CRIB TOWER">Chrome Crib Tower</option>
+                <option value="CJ4 TOWERS">CJ4 Towers</option>
+                <option value="LAT & LONG TOWERS">Lat & Long Towers</option>
+                <option value="CESSNA DOOR TOWERS">Cessna Door Tower</option>
+                <option value="SKY TOWERS">Sky Towers</option>
+                <option value="737 ME ACT-DEACT (A&B)">737 ME Act-Deact (A&B) Tower</option>
+                <option value="737 POS 3 RIVET RIBBON TOWERS">737 Pos 3 Rivet Ribbon Towers</option>
+                <option value="737 POS 3 (TOWERS 8-9)">737 Pos 3 (Towers 8-9)</option>
+                <option value="737 SUB & TORQUE (TOWERS 6-7,10)">737 Sub & Torque (Towers 6-7,10)</option>
+                <option value="737 OVERSIZED TOWER">737 Oversized Tower</option>
+            </select>
+
+            <button type="submit">Submit Request</button>
+        </form>
+
+        <!-- Flash messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="message {{ category }}">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+    </div>
+</body>
+</html>
