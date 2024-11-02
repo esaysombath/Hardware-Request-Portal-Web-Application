@@ -86,7 +86,7 @@ The following technologies were utilized in the development of this project:
 - **Flask**: A lightweight web framework for Python that facilitates the creation of web applications.
 - **SQLite**: A simple, serverless database engine used for data storage.
 - **HTML/CSS**: Standard technologies for creating and styling web pages.
-- **JavaScript**: Used for enhancing interactivity on the front end.
+- **JavaScript**: Used to enhance interactivity on the front end.
 - **Bootstrap**: A front-end framework that helps design responsive and visually appealing web applications.
 
 ## Contact Information
@@ -96,5 +96,8 @@ For inquiries, collaboration opportunities, or further information about this pr
 
 ## Screenshots/Demos
 Below are some screenshots demonstrating the features of the Hardware Request Management System:
-![Request Form](path/to/your/screenshot.png)  <!-- Add the path to your screenshot -->
-![Admin Dashboard](path/to/your/another_screenshot.png)  <!-- Add another screenshot if needed -->
+![Request Form]("C:\Users\Elbie Saysombath\Videos\Captures\Hardware Request Form — Mozilla Firefox 2024-11-01 19-33-03.mp4")  <!-- Add the path to your screenshot -->
+![Admin Dashboard]("C:\Users\Elbie Saysombath\Videos\Captures\admin.png")  <!-- Add another screenshot if needed -->
+
+Demo Video
+(C:\Users\Elbie Saysombath\Videos\Captures)
