@@ -96,9 +96,9 @@ For inquiries, collaboration opportunities, or further information about this pr
 
 ## Screenshots/Demos
 Below are some screenshots demonstrating the features of the Hardware Request Management System:
-![Request Form](https://github.com/user-attachments/assets/f998fa22-ad19-4ee3-9ef4-c8fb0fa3b9d8)
-<img src="https://github.com/user-attachments/assets/f998fa22-ad19-4ee3-9ef4-c8fb0fa3b9d8" width="300" /><!-- Add the path to your screenshot -->
-![Admin Dashboard](https://github.com/user-attachments/assets/806fb3e1-e2ca-48c8-b789-2c4f53ea8997)
-<img src="[images/example.png](https://github.com/user-attachments/assets/806fb3e1-e2ca-48c8-b789-2c4f53ea8997)" width="300" /><!-- Add another screenshot if needed -->
+Request Form
+<img src="https://github.com/user-attachments/assets/f998fa22-ad19-4ee3-9ef4-c8fb0fa3b9d8" width="400" /><!-- Add the path to your screenshot -->
+Admin Port
+<img src="(https://github.com/user-attachments/assets/806fb3e1-e2ca-48c8-b789-2c4f53ea8997)" width="400" /><!-- Add another screenshot if needed -->
 
 ![Demo Video](https://www.canva.com/design/DAGVSC1vPsE/oW5lvZWr6ukjhcDfeYq4UQ/watch?utm_content=DAGVSC1vPsE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
