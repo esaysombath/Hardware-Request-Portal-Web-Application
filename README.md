@@ -96,8 +96,7 @@ For inquiries, collaboration opportunities, or further information about this pr
 
 ## Screenshots/Demos
 Below are some screenshots demonstrating the features of the Hardware Request Management System:
-![Request Form]("C:\Users\Elbie Saysombath\Videos\Captures\Hardware Request Form — Mozilla Firefox 2024-11-01 19-33-03.mp4")  <!-- Add the path to your screenshot -->
-![Admin Dashboard]("C:\Users\Elbie Saysombath\Videos\Captures\admin.png")  <!-- Add another screenshot if needed -->
+![Request Form](https://github.com/user-attachments/assets/f998fa22-ad19-4ee3-9ef4-c8fb0fa3b9d8) <!-- Add the path to your screenshot -->
+![Admin Dashboard](https://github.com/user-attachments/assets/806fb3e1-e2ca-48c8-b789-2c4f53ea8997)  <!-- Add another screenshot if needed -->
 
-Demo Video
-(C:\Users\Elbie Saysombath\Videos\Captures)
+![Demo Video](https://www.canva.com/design/DAGVSC1vPsE/oW5lvZWr6ukjhcDfeYq4UQ/watch?utm_content=DAGVSC1vPsE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
