@@ -94,11 +94,18 @@ For inquiries, collaboration opportunities, or further information about this pr
 - Email: esaysombath@gmail.com
 - LinkedIn [Elbie Saysombath Profile](https://www.linkedin.com/in/elbie-s/)
 
-## Screenshots/Demos
-Below are some screenshots demonstrating the features of the Hardware Request Management System:
-![ADMIN PORT](https://github.com/user-attachments/assets/a9b45e86-7624-4a09-a48d-b1431e61bd3b)
+## Screenshots & Demo
+Explore the main features of the Hardware Request Management System through the screenshots and demo video below.
 
-![REQUEST FORM ](https://github.com/user-attachments/assets/905e415e-80b0-44e2-b871-3a07ac9e501d)
+### Admin Portal
+The Admin Portal allows administrators to manage requests, track statuses, and view details in a streamlined interface.
+<img src="https://github.com/user-attachments/assets/a9b45e86-7624-4a09-a48d-b1431e61bd3b" alt="Admin Portal" width="500px">
 
-![Demo Video](https://www.canva.com/design/DAGVSC1vPsE/oW5lvZWr6ukjhcDfeYq4UQ/watch?utm_content=DAGVSC1vPsE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+### Request Form
+The Request Form lets mechanics submit hardware requests easily, ensuring clear communication with the kitting team.
+<img src="https://github.com/user-attachments/assets/905e415e-80b0-44e2-b871-3a07ac9e501d" alt="Request Form" width="500px">
+
+### Demo Video
+Watch this video to see the system in action:
+[![Demo Video](https://www.canva.com/design/DAGVSC1vPsE/oW5lvZWr6ukjhcDfeYq4UQ/watch?utm_content=DAGVSC1vPsE&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.canva.com/design/DAGVSC1vPsE/oW5lvZWr6ukjhcDfeYq4UQ/watch?utm_content=DAGVSC1v
 
