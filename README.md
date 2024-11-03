@@ -107,5 +107,4 @@ The Request Form lets mechanics submit hardware requests easily, ensuring clear 
 
 ### Demo Video
 Watch this video to see the system in action:
-[![Demo Video](https://www.canva.com/design/DAGVSC1vPsE/oW5lvZWr6ukjhcDfeYq4UQ/watch?utm_content=DAGVSC1vPsE&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
-
+[![Demo Video](https://www.canva.com/design/DAGVSC1vPsE/wz-DxGFJLhEccax8_zoV3w/edit?utm_content=DAGVSC1vPsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
