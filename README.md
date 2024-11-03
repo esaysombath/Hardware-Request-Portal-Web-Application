@@ -1,4 +1,4 @@
-# Hardware Request Management Project
+  # Hardware Request Management Project
 
 ## Description
 The Hardware Request Management System is a web-based application designed to enhance hardware inventory management in a mechanic workshop. As a kitting clerk at a manufacturing company using the outdated 2012 Microsoft Dynamics AX ERP system, I've faced significant challenges in managing hardware requests and inventory across multiple locations.
@@ -107,5 +107,5 @@ The Request Form lets mechanics submit hardware requests easily, ensuring clear 
 
 ### Demo Video
 Watch this video to see the system in action:
-[![Demo Video](https://www.canva.com/design/DAGVSC1vPsE/oW5lvZWr6ukjhcDfeYq4UQ/watch?utm_content=DAGVSC1vPsE&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.canva.com/design/DAGVSC1vPsE/oW5lvZWr6ukjhcDfeYq4UQ/watch?utm_content=DAGVSC1v
+[![Demo Video](https://www.canva.com/design/DAGVSC1vPsE/oW5lvZWr6ukjhcDfeYq4UQ/watch?utm_content=DAGVSC1vPsE&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
 
